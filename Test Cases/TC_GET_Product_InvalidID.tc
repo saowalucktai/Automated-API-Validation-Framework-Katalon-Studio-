@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_GET_Product_InvalidID</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>81ae26cc-8960-49d1-b098-e5b242f7194d</testCaseGuid>
+</TestCaseEntity>

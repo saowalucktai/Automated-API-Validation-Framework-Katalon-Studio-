@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_POST_Product_MissingData</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>98d8cd1c-bd6e-4607-b6f0-ca019b620a8c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_POST_Product_Success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7fcbbbe3-ca1c-4b2c-b45d-936a319d2b71</testCaseGuid>
+</TestCaseEntity>
