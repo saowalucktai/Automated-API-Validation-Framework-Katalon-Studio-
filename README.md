@@ -1,13 +1,25 @@
-# API Request & Response Validation Suite with Postman
+# Automated API Validation Framework with Katalon Studio
 
 ## Project Overview
-This repository contains a comprehensive Postman collection designed to validate RESTful API services. The project focuses on ensuring data integrity through rigorous request and response validation.
+This repository showcases an automated testing framework developed in **Katalon Studio** to validate RESTful API services. The project focuses on ensuring the reliability and data integrity of the **FakeStoreAPI** through comprehensive test scenarios.
 
 ## Testing Target
 * **API Documentation:** [FakeStoreAPI Docs](https://fakestoreapi.com/docs)
 * **API Endpoint:** https://fakestoreapi.com
 
-## Key Testing Areas
-* **HTTP Methods:** Implementation of GET, POST, PUT, and DELETE requests.
-* **Validation Logic:** Verifying Response Status Codes (e.g., 200 OK) and validating the accuracy of JSON data structures.
-* **Scenario Coverage:** Includes testing for both successful data retrieval and error handling for invalid requests.
+## Key Features & Testing Areas
+* **Comprehensive Test Cases:** Implementation of automated scripts for **GET, POST, PUT, and DELETE** operations.
+* **Advanced Validation:** * Verification of **Response Status Codes** (e.g., 200 OK, 201 Created).
+    * Validation of **JSON Data Structures** and response body accuracy.
+* **Error Handling:** Testing for invalid requests to ensure proper system responses (e.g., Invalid ID, Missing Data).
+
+## Repository Structure
+* **Test Cases:** Contains automated test scripts for various API scenarios.
+* **Object Repository:** Stores API service definitions and endpoints.
+* **Reports.zip:** Comprehensive test execution reports and results.
+* **Documentation:** Detailed Test Scenarios and Test Suites in PDF format.
+
+## Tech Stack
+* **Testing Tool:** Katalon Studio
+* **API Architecture:** REST
+* **Report Format:** HTML / PDF (contained within Reports.zip)
